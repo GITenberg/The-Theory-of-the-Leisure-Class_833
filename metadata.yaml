@@ -1,5 +1,8 @@
 _repo: The-Theory-of-the-Leisure-Class_833
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Veblen, Thorstein
@@ -25,6 +28,8 @@ description: "The Theory of the Leisure Class: An Economic Study of Institutions
   \ division of labour, by technocratic speciality — scientist, engineer, technologist,\
   \ et al. — proved to be accurate, sociological predictions of the economic structure\
   \ of an industrial society.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/833#The-Theory-of-the-Leisure-Class
 gutenberg_issued: '1997-03-01'
 gutenberg_type: Text
 identifiers:
